@@ -1,0 +1,10 @@
+ebin
+priv
+doc
+.eunit
+*.o
+*.lo
+*.la
+*~
+*.swp
+.rebar
